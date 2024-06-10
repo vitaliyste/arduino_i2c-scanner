@@ -1,10 +1,10 @@
-# I^2^C Scanner
+# I^2C Scanner
 
 (https://playground.arduino.cc/Main/I2cScanner/)
 
-This very simple sketch scans the I^2^C-bus for devices. If a device is found, it is reported to the Arduino serial monitor.
+This very simple sketch scans the $I^2C$-bus for devices. If a device is found, it is reported to the Arduino serial monitor.
 
-This sketch is the first step to get the I^2^C communication working.
+This sketch is the first step to get the $I^2C$ communication working.
 
 The sketch shows the 7-bit addresses of the found devices as hexadecimal values. That value can be used for the "Wire.begin" function which uses the 7-bit address. Some datasheets use the 8-bit address and some example sketches use decimal addresses.
 
