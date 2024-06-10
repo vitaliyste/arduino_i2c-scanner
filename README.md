@@ -1,4 +1,4 @@
-# I^2C Scanner
+# I<sup>2</sup>C Scanner
 
 (https://playground.arduino.cc/Main/I2cScanner/)
 
@@ -13,9 +13,9 @@ This sketch tests the standard 7-bit addresses. Devices with higher bit address 
 
 ## Sketch
 
-Open a new sketch and copy the sketch below into it. Upload it to the Arduino and open the serial monitor. Every found device on the I^2^C-bus is reported.
+Open a new sketch and copy the sketch below into it. Upload it to the Arduino and open the serial monitor. Every found device on the $I^2C$-bus is reported.
 
-You can change the wires, and plug-in I^2^C devices while the i2c_scanner is running.
+You can change the wires, and plug-in $I^2C$ devices while the i2c_scanner is running.
 
 
 ## Revision history
